@@ -1,4 +1,4 @@
-<!-- This readme is generated with chat gpt -->
+<!-- This readme is generated with chat gpt and edited later -->
 
 # Student Marks Analysis using Python
 
@@ -14,7 +14,6 @@ UCI ML Repository - Student Performance Dataset (ID: 320)
 -   Python
 -   pandas
 -   matplotlib
--   seaborn
 -   ucimlrepo
 
 ## Project Tasks
@@ -29,6 +28,6 @@ UCI ML Repository - Student Performance Dataset (ID: 320)
 
 ## Output
 
--   analysis.py
+-   student_performance.ipynb
 -   insights.txt
--   charts folder containing bar chart and histogram
+-   charts with bar chart and histogram
