@@ -1,0 +1,5 @@
+The average marks slightly increases from G1 to G3. This shows that the students are imporving their performance. 
+Most students have scored between 10 to 15 which suggest that majority of class student has average scored.
+Very few students have full score of 20.
+Some student have scored 0 which suggest that some student has failed final exam.
+The distribution of mark is concrated between 8 to 18 which suggests that score of 0 and 20 are uncommon. 
